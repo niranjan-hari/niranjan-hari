@@ -1,33 +1,36 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Niranjan H
 ==================================================================================================================================
 
-🧠💻🎨 — Creative Frontend Developer
-------------------------------------
+🛡️💻🔐 — Cybersecurity Enthusiast & Security-Focused Developer
+---------------------------------------------------------------
 
-🎯 Hi there, I'm Niranjan H — a passionate Frontend Developer exploring the backend world!
+🎯 Hi there, I'm Niranjan H — a cybersecurity-focused developer who loves building secure, practical, and real-world solutions!
 
-Welcome to my GitHub profile! I'm a frontend-focused developer who loves building beautiful, responsive user interfaces using HTML, CSS, and JavaScript. I'm also diving into backend development to become a well-rounded full-stack dev. 🚀
+Welcome to my GitHub profile! I'm passionate about cybersecurity, system security, and secure software development. I enjoy exploring how systems can be protected, identifying security weaknesses, and building projects that apply security concepts in practical ways. I'm also strengthening my skills in backend development to build more secure and well-rounded applications. 🚀
 
 Here’s what I’m passionate about:
 
-🎨 Crafting clean, accessible, and user-friendly UIs
+🛡️ Building practical cybersecurity and system security projects
 
-💻 Writing semantic HTML and scalable CSS
+🔐 Exploring secure coding, encryption, authentication, and privacy
 
-⚙️ Learning backend fundamentals and server-side logic
+💻 Developing secure and reliable applications with Python and Java
 
-🔧 Constantly improving and building real-world projects
+🔎 Learning about vulnerabilities, threat modeling, and defensive security
 
-This repo is a glimpse into my journey, my work, and the skills I’m sharpening every day.
+⚙️ Exploring backend development with Django and Flask
 
-💬 Let’s connect, collaborate, and code something amazing!
+🔧 Constantly improving my skills through hands-on projects and experimentation
 
-* 🌍  I'm based in Kerala ,India
-* ✉️  You can contact me at [niranjanbalu558@gmail.com](mailto:niranjanbalu558@gmail.com)
-* 🧠  I'm learning Django and Flask
-* 🤝  I'm open to collaborating on Any Interesting Projects
-* ⚡  Bruce by dawn 🌅, Batman by dusk 🌑 — the tie comes off 👔, the cowl goes on 🦇.
+My GitHub is a collection of my cybersecurity journey, security-focused projects, experiments, and the skills I'm developing along the way.
 
+💬 Let’s connect, collaborate, and build something secure together!
+
+* 🌍 I'm based in Kerala, India
+* ✉️ You can contact me at niranjanbalu558@gmail.com
+* 🧠 I'm learning Django, Flask, and cybersecurity
+* 🤝 I'm open to collaborating on interesting cybersecurity and software projects
+* ⚡ Bruce by dawn 🌅, Batman by dusk 🌑 — the tie comes off 👔, the cowl goes on 🦇.
 ### Skills
 
 
